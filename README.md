@@ -6,6 +6,6 @@ The project is about predicting if the first stage of the SpaceX Falcon 9 rocket
 
 Hope you like it, thanks.
 
-##Author
+## Author
 
-###Jorge Benitez
+### Jorge Benitez
