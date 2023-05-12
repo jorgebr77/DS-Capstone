@@ -10,6 +10,10 @@ Review the notebooks in this order:
 2. Webscraping
 3. Data Wrangling
 4. EDA with SQL
+5. EDA Data Visualization
+6. Dashboard app with Plotly Dash
+7. Launch site Location (folium)
+8. Machine Learning Predictive Analysis
 
 Hope you like it, thanks.
 
