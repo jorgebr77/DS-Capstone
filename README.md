@@ -6,7 +6,7 @@ The project is about predicting if the first stage of the SpaceX Falcon 9 rocket
 
 Review the notebooks in this order:
 
-1. SpaceX Data Collection
+1. SpaceX Data Collection (https://github.com/jorgebr77/DS-Capstone/blob/main/SpaceX%20Data%20Collection.ipynb)
 2. Webscraping
 3. Data Wrangling
 4. EDA with SQL
